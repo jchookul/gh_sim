@@ -1,3 +1,0 @@
-cmsf_api fn1
-
-cmsf_app add fn2
