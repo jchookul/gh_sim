@@ -2,3 +2,5 @@ cmsf_api fn1
 
 cmsf_api add fn-1-2
 cmsf_app add fn2
+
+cams add fn.
