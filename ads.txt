@@ -1,1 +1,3 @@
 ads fn1
+
+ad fn from mc
